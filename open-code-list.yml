@@ -1,0 +1,6 @@
+- url: "https://github.com/vliz-be-opsci/k-gap/"
+  name: "k-gap"
+  owner: "vliz-be-opsci"
+- url: "https://github.com/lifewatch/eva"
+  name: "eva"
+  owner: "lifewatch"
