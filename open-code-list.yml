@@ -4,3 +4,6 @@
 - url: "https://github.com/lifewatch/eva"
   name: "eva"
   owner: "lifewatch"
+- url: "https://github.com/vliz-be-opsci/open-code-test"
+  name: "open-code-test"
+  owner: "vliz-be-opsci"
